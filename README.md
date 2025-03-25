@@ -1810,7 +1810,9 @@ IEEE Trans. Robot. (TRO), 2023. [PDF](https://arxiv.org/pdf/2401.09296v1.pdf)
 - <a name="Chen22arxiv"></a>Chen, P., Guan, W., Lu, P.,  
 *[ESVIO: Event-based Stereo Visual Inertial Odometry](https://arxiv.org/abs/2212.13184)*,  
 arXiv, 2022.
-
+- <a name="Niu2025tro"></a>Niu, J., Zhong, S., Lu, X., Shen, S., Gallego, G., Zhou, Y.,  
+*[ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras](https://arxiv.org/abs/2410.09374)*,  
+IEEE Trans. Robot. (TRO), 2025. [PDF](https://arxiv.org/abs/2410.09374), [Video](https://www.youtube.com/watch?v=gmAU32Oeiv8), [Code](https://github.com/NAIL-HNU/ESVO2).
 
 <a name="segmentation"></a>
 ## Segmentation
